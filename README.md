@@ -1,6 +1,6 @@
 # Chatbot Deployment with Flask and JavaScript
 
-In this tutorial i deploy the chatbot I created with Flask and JavaScript.
+In this tutorial i deployed the chatbot which I created with python,Flask and JavaScript.
 
 This gives 2 deployment options:
 - Deploy within Flask app with jinja2 template
